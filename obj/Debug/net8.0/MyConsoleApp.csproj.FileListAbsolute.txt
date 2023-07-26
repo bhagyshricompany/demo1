@@ -1,0 +1,15 @@
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\DSALGOPROBLEM\testconsoleapp\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
