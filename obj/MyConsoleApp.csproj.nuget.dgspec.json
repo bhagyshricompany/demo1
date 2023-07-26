@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\MyConsoleApp.csproj": {}
+    "C:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "c:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\MyConsoleApp.csproj": {
+    "C:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\MyConsoleApp.csproj",
+        "projectUniqueName": "C:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "c:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\MyConsoleApp.csproj",
+        "projectPath": "C:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\MyConsoleApp.csproj",
         "packagesPath": "C:\\Users\\v-bhshukla\\.nuget\\packages\\",
-        "outputPath": "c:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\obj\\",
+        "outputPath": "C:\\DSALGOPROBLEM\\testconsoleapp\\MyConsoleApp - Copy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v-bhshukla\\AppData\\Roaming\\NuGet\\NuGet.Config",
